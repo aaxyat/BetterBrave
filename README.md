@@ -4,7 +4,7 @@ BetterBrave is a PowerShell script that disables unnecessary features from Brave
 
 <div align="center">
 
-
+[![GitHub license](https://img.shields.io/github/license/aaxyat/BetterBrave)](https://github.com/aaxyat/BetterBrave/blob/main/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/aaxyat/BetterBrave)](https://github.com/aaxyat/BetterBrave/stargazers)
 [![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white)](https://learn.microsoft.com/en-us/powershell/)
 [![Brave](https://img.shields.io/badge/Brave-FB542B?style=flat&logo=Brave&logoColor=white)](https://brave.com/)
